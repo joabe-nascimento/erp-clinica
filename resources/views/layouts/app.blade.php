@@ -66,7 +66,7 @@
         .toggle-sidebar {
             position: fixed;
             top: 10px;
-            right: 60px;
+            right: 50px;
             z-index: 1100;
             cursor: pointer;
         }
